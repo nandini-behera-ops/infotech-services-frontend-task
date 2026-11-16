@@ -5,7 +5,7 @@ Responsive, pixel-perfect static landing page converted from a Figma design usin
 A pixel-perfect, fully responsive static web page converted from a Figma design specification into clean, structured **HTML5**, **CSS3**, and **JavaScript**. Built as part of the Full Stack Development Internship assignment for **Infotech Services**.
 
 ## 🔗 Live Demo
-- **Live Site:** *Deployment in progress — will be updated shortly*
+- **Live Site:** https://infotech-services-frontend-task.vercel.app/
 
 ## ✨ Features
 - **Pixel-Perfect Implementation:** Accurately translated colors, typography, spacing, and layout dimensions from the provided Figma design.
